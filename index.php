@@ -15,7 +15,15 @@
 </footer>
 </html>
 <?php
-echo "Hello World";
+define("MINISIZE", 50);
+echo "Hello World<br>";
+echo constant("MINISIZE");
+    $fify = $fify>0?50 : 26; //  Conditional Operator.
+        /* PHP Magic Constants
+
+
+        */
+
 
 
 
