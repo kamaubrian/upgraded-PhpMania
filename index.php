@@ -20,8 +20,6 @@ echo "Hello World<br>";
 echo constant("MINISIZE");
     $fify = $fify>0?50 : 26; //  Conditional Operator.
         /* PHP Magic Constants
-
-
         */
 
 
