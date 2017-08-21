@@ -3,7 +3,7 @@
 
 
 
-class admin{
+class admin {
 
     public static function main(){
 
