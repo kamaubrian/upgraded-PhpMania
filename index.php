@@ -7,6 +7,8 @@
 <center>
     <h2> Welcome To PHP Mania</h2>
 </center>
+
+
 </body>
 <footer>
     <center>
