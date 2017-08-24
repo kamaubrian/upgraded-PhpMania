@@ -23,6 +23,4 @@
     echo "File Size : $filesize bytes";
     echo "<pr>$filetext</pr>";
 
-
-
 ?>
