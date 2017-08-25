@@ -6,9 +6,9 @@
             <input type ="submit"/>
         </form>
     </body>
-        <form method="get" action="readFile.php" enctype="multipart/form-data">
-            <input type="file" name="file">
+        <form method="post" action="uploadfile.php" enctype="multipart/form-data">
+            <input type="file" name="image">
             <input type="submit"/>
-        </form>
+        </form
 
 </html>
